@@ -1,0 +1,2 @@
+MIN_PIXELS = 1
+TOP_N = 1
